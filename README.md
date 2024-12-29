@@ -89,6 +89,12 @@ Projeye katkıda bulunmak isterseniz:
 
 ---
 
+---
+
+## Lisans
+
+Bu proje **MIT Lisansı** altında sunulmaktadır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
+
 
 
 ## İletişim
