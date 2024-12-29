@@ -2,6 +2,9 @@
 
 Bu proje, ikili arama ağacı (Binary Search Tree) veri yapısını oluşturmak ve bu yapı üzerinde çeşitli işlemleri gerçekleştirmek için bir uygulamadır.
 
+![bst](https://github.com/user-attachments/assets/29244b95-26ce-45b7-8a12-a7a83430de2e)
+
+
 ## Özellikler
 
 1. **Eleman Ekleme**: Ağaca yeni düğümler ekleyerek ikili arama ağacını oluşturur.
