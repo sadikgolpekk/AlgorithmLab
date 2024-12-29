@@ -1,5 +1,8 @@
 # Veri Yapıları ve Algoritmalar
 
+![DataStructures](https://github.com/user-attachments/assets/f13c6e6c-e6a5-4966-ac26-71bb4ddcda5c)
+
+
 Bu proje, temel **veri yapıları** ve **algoritmalar** üzerine odaklanmaktadır. Amacımız, bu yapıların çalışma prensiplerini anlamanızı ve bunları pratikte nasıl uygulayacağınızı öğretmektir.
 
 ---
