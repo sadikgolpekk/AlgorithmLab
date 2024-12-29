@@ -6,6 +6,8 @@ Bu proje, temel **veri yapıları** ve **algoritmalar** üzerine odaklanmaktadı
 
 ## Neden C Dili?
 
+![C](https://github.com/user-attachments/assets/c501d546-6264-4059-8091-4fe74877f940)
+
 Bu projede **C dili** kullanılmıştır çünkü:
 
 1. **Düşük Seviye Kontrol:** 
@@ -38,6 +40,9 @@ Bu projede **C dili** kullanılmıştır çünkü:
 ---
 
 ## Algoritmalar Nedir?
+
+![algorithm](https://github.com/user-attachments/assets/36560b99-9415-4105-9af0-3a04397659f7)
+
 
 **Algoritmalar**, belirli bir problemi çözmek için izlenmesi gereken adımlardır. İyi tasarlanmış bir algoritma, hem doğru hem de hızlı bir çözüm sunar.
 
