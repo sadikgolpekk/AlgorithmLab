@@ -2,6 +2,9 @@
 
 Bu proje, **tek yönlü bağlı liste** (Singly Linked List) veri yapısının temel işlemlerini gerçekleştiren bir C programını içermektedir. Program, dinamik bellek yönetimi kullanarak bağlı liste üzerinde eleman ekleme, araya ekleme, başa ekleme, sona ekleme ve eleman silme işlemlerini göstermektedir.
 
+![linkedlist](https://github.com/user-attachments/assets/2aa33194-b6c9-4c7e-b839-c4b2b5dda29b)
+
+
 ## Özellikler
 
 1. **Eleman Ekleme**:
