@@ -6,6 +6,10 @@ Bu proje, **Insertion Sort** algoritmasının bir C programında nasıl uygulana
 
 Insertion Sort, sıralama algoritmalarından biridir ve her bir elemanı doğru yerine "sokarak" çalışır. Dizinin ilk elemanı sıralı kabul edilir ve diğer elemanlar, sıralı kısımda doğru konumlarına yerleştirilir.
 
+
+![Insertion-sort-example](https://github.com/user-attachments/assets/50108a1a-362b-423e-8954-9ebfb9fdb99c)
+
+
 ### Çalışma Prensibi:
 
 1. İlk eleman sıralı kabul edilir.
