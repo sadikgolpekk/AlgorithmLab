@@ -4,6 +4,9 @@ Bu proje, **doğrusal arama algoritmasını** kullanarak bir dizide eleman arama
 
 ## Doğrusal Arama Nedir?
 
+![How-linear-search-works](https://github.com/user-attachments/assets/298918ca-fabf-4345-9d94-2e2e1513871a)
+
+
 Doğrusal arama (Linear Search), bir dizide aranan elemanı bulmak için elemanların sırayla kontrol edilmesi işlemidir. Basit bir algoritma olduğu için küçük veri setlerinde tercih edilir.
 
 ### Çalışma Prensibi
