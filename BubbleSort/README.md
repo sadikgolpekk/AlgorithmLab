@@ -4,6 +4,9 @@ Bu proje, **Bubble Sort** algoritmasının bir C programında nasıl uygulanaca�
 
 ## Bubble Sort Nedir?
 
+![bubblesort](https://github.com/user-attachments/assets/011147dc-e3cd-497b-8f20-8bf5259d21f8)
+
+
 Bubble Sort, basit bir sıralama algoritmasıdır. Algoritma, ardışık elemanları karşılaştırarak, gerektiğinde yerlerini değiştirerek çalışır. Bu işlem, dizinin tamamı sıralanana kadar devam eder.
 
 ### Çalışma Prensibi:
