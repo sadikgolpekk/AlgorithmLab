@@ -4,6 +4,10 @@ Bu proje, **ikili arama algoritmasını** kullanarak bir dizide eleman arama iş
 
 ## İkili Arama Nedir?
 
+
+![bePceUMnSG-binary_search_gif](https://github.com/user-attachments/assets/9431a689-1828-4cc9-9fa3-6c2a96674510)
+
+
 İkili arama (Binary Search), sıralı bir dizide aranan elemanı bulmak için kullanılan bir algoritmadır. Algoritma, her adımda diziyi ikiye bölerek arama yapar ve bu sayede çok hızlı bir şekilde çalışır.
 
 ### Çalışma Prensibi
