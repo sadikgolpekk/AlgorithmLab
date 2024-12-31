@@ -1,16 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h> // malloc icin
-struct n{
-
+struct n{ 
 int yas; // data
 struct n *next; // pointer
-
 };
 typedef struct n node;
 
 int main(){
 
-node *root;
+node *root; // başlangıcı tutar
 node *temp; // araya ekleme
 node *basdugum; // başa ekleme
 node *sondugum; // sona ekleme
