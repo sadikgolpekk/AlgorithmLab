@@ -1,7 +1,6 @@
 # Dynamic Stack in C
 
 Bu proje, **dinamik bellek yönetimi** kullanarak bir yığın (stack) veri yapısı oluşturmayı ve yığının kapasitesini gerektiğinde artırıp azaltmayı içerir.
-
 ![Stack](https://github.com/user-attachments/assets/ffcb3b52-86bb-4637-b19b-7154257d726d)
 
 ## Özellikler
