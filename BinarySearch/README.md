@@ -23,6 +23,7 @@ Bu proje, **ikili arama algoritmasını** kullanarak bir dizide eleman arama iş
 - **En Kötü Durum (Worst Case)**: O(log n)  
   - Bu durum, eleman bulunamadığında veya arama alanı sürekli ikiye bölündüğünde ortaya çıkar.
   - Örneğin, 128 elemanlı bir dizide arama yapmak için en fazla log₂(128) = 7 karşılaştırma gerekir.
+  - Büyük veri setlerinde karmaşıklık konusunda doğrusal aramaya göre çok avantajlı konumdadır.
 
 ## Kodun İçeriği
 
