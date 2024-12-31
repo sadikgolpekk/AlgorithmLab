@@ -8,6 +8,7 @@ Bu proje, **Bubble Sort** algoritmasının bir C programında nasıl uygulanaca�
 
 
 Bubble Sort, basit bir sıralama algoritmasıdır. Algoritma, ardışık elemanları karşılaştırarak, gerektiğinde yerlerini değiştirerek çalışır. Bu işlem, dizinin tamamı sıralanana kadar devam eder.
+Bubble sort algoritmasına "bubble sort" (kabarcık sıralama) denmesinin sebebi, sıralama işlemi sırasında büyük ya da küçük değerlerin (sıralama yönüne bağlı olarak) liste boyunca "kabarcıklar gibi" yukarı veya aşağı doğru hareket etmesidir.
 
 ### Çalışma Prensibi:
 
