@@ -2,6 +2,8 @@
 
 Bu proje, **dinamik bellek yönetimi** kullanarak bir yığın (stack) veri yapısı oluşturmayı ve yığının kapasitesini gerektiğinde artırıp azaltmayı içerir.
 
+![linkdlist](https://github.com/user-attachments/assets/fa644123-f8f0-4173-a6e7-a13e5f375a56)
+
 ## Özellikler
 
 1. **Dinamik Boyutlandırma**:
