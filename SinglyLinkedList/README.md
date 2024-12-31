@@ -54,6 +54,8 @@ Her düğüm (node):
    - Silinecek düğüme ulaşılır.
    - Silinecek düğümün bir önceki düğümünün `next` işaretçisi, silinecek düğümün bir sonrasını gösterecek şekilde ayarlanır.
    - Silinen düğümün belleği serbest bırakılır.
+  
+   ![linkdlist](https://github.com/user-attachments/assets/d434ba9e-ee89-4bde-a20e-61956a467f40)
 
 ## Kullanım Alanları
 
