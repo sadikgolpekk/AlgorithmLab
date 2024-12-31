@@ -2,6 +2,9 @@
 
 Bu proje, **Selection Sort** algoritmasının bir C programında nasıl uygulanacağını göstermektedir. Program, verilen bir diziyi sıralar ve sıralı halini ekrana yazdırır.
 
+![selectionsort](https://github.com/user-attachments/assets/94c84bcc-c3c2-4aae-92c7-a2c37cfc34c1)
+
+
 ## Selection Sort Nedir?
 
 Selection Sort, bir sıralama algoritmasıdır ve çalışma prensibi şu şekildedir:
