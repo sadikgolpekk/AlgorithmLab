@@ -21,7 +21,7 @@ Bu projede **C dili** kullanılmıştır çünkü:
    - C, temel programlama prensiplerini ve algoritma yapılarını öğrenmek için mükemmel bir başlangıç noktasıdır. Çoğu modern programlama dili, C dilinin temellerine dayanmaktadır.
 
 4. **Geniş Kapsamlı Kullanım Alanı:**
-   - Sistem programlama, gömülü sistemler, oyun geliştirme ve işletim sistemlerinde yaygın olarak kullanılmaktadır. C dilini öğrenmek, bu alanlarda ilerlemenize katkı sağlar.
+   - Sistem programlama, gömülü sistemler ve işletim sistemlerinde yaygın olarak kullanılmaktadır. C dilini öğrenmek, bu alanlarda ilerlemenize katkı sağlar.
 
 5. **Minimal Soyutlama:**
    - C, birçok soyutlama katmanından arındırılmıştır. Bu, algoritmaların ve veri yapılarına ilişkin mantığın doğrudan görünmesini sağlar.
