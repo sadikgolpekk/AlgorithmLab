@@ -16,18 +16,11 @@ int pop(){ // bilgi alır
   dizi=dizi2;
  boyut/=2;
 
-
-
-
   }
-
-
 
   return dizi[--tepe];
 }
-
 void push(int a){ // push bilgi koyar
-
 
  if(tepe>=boyut){
 
@@ -45,7 +38,6 @@ void push(int a){ // push bilgi koyar
 
 }
 void bastir(){
-
 printf("boyut: %d ",boyut);
 for(int i=0;i<tepe;i++){
 printf("%d ",dizi[i]);
