@@ -1,8 +1,8 @@
-# Prim Algoritması
+# Prim's Algoritması
 
 
 
-## 📚 Prim Algoritması Nedir?
+## 📚 Prim's Algoritması Nedir?
 
 Prim algoritması, **Minimum Yayılım Ağacı (Minimum Spanning Tree, MST)** bulmak için kullanılan bir ***açgözlü algoritmadır***\*.\* MST, bir grafın tüm düğümlerini en düşük toplam kenar ağırlığıyla ve çevrim içermeden bağlayan bir alt kümedir.
 
@@ -19,7 +19,7 @@ Algoritma, MST'yi şu adımlarla oluşturur:
 ![prims](https://github.com/user-attachments/assets/2b084421-894c-4892-b5da-2c3e8ccf3970)
 
 
-## ✨ Prim Algoritmasının Özellikleri
+## ✨ Prim's Algoritmasının Özellikleri
 
 - Açgözlü yaklaşım: Her zaman mevcut en küçük ağırlıklı kenarı seçer.
 - Tüm düğümleri birbirine bağlar.
