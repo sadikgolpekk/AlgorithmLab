@@ -105,10 +105,9 @@ Toplam Ağırlık: 1 + 2 + 3 + 5 = **11**
 
 ## 📖 Daha Fazla Okuma
 - [GeeksforGeeks: Kruskal Algoritması](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
-- [Vikipedi: Kruskal Algoritması](https://tr.wikipedia.org/wiki/Kruskal_algoritmas%C4%B1)
+
 
 ---
 
-## 📝 Lisans
-Bu dokümantasyon MIT Lisansı ile lisanslanmıştır.
+
 
