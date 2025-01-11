@@ -1,4 +1,4 @@
-# Kruskal Algoritmalası
+# Kruskal Algoritması
 
 ## 📚 Kruskal Algoritması Nedir?
 
@@ -12,6 +12,10 @@ Kruskal algoritması, **Minimum Yayılım Ağacı (MST)** bulmak için kullanıl
 3. Tüm düğümler MST'ye dahil edildiğinde işlem tamamlanır.
 
 ---
+
+![600px-MST_kruskal_en](https://github.com/user-attachments/assets/cd643ead-75a4-486d-a723-4877ab324915)
+
+
 
 ## ✨ Kruskal Algoritmasının Özellikleri
 - Kenarları sıralar ve en küçükten başlayarak ekler.
