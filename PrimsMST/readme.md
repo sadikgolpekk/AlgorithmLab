@@ -112,13 +112,7 @@ Toplam Ağırlık: 1 + 2 + 3 + 5 = **11**
 - Bağlantısız grafikler için uygun değildir.
 - Çok büyük grafiklerde en hızlı algoritma olmayabilir.
 
----
 
-## 🎥 Görsel Örnek
-
-
-
----
 
 ## 📖 Daha Fazla Okuma
 
