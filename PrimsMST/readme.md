@@ -127,7 +127,6 @@ Toplam Ağırlık: 1 + 2 + 3 + 5 = **11**
 
 ---
 
-## 📝 Lisans
 
-Bu dokümantasyon MIT Lisansı ile lisanslanmıştır.
+
 
