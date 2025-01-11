@@ -16,6 +16,9 @@ Algoritma, MST'yi şu adımlarla oluşturur:
 
 ---
 
+![prims](https://github.com/user-attachments/assets/2b084421-894c-4892-b5da-2c3e8ccf3970)
+
+
 ## ✨ Prim Algoritmasının Özellikleri
 
 - Açgözlü yaklaşım: Her zaman mevcut en küçük ağırlıklı kenarı seçer.
