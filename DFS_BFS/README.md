@@ -1,5 +1,7 @@
 # DFS ve BFS Algoritmaları
 
+![1_GT9oSo0agIeIj6nTg3jFEA](https://github.com/user-attachments/assets/05bf1445-c317-42d3-9587-774bf63d2561)
+
 ## Giriş
 DFS (Depth First Search - Derinlik Öncelikli Arama) ve BFS (Breadth First Search - Genişlik Öncelikli Arama), **graf** ve **ağaç** yapılarında gezinmek veya veri aramak için kullanılan iki temel algoritmadır. Bu algoritmalar, düğümleri belirli bir sıra ile ziyaret eder ve çeşitli uygulamalarda, örneğin yol bulma, veri indeksleme gibi alanlarda yaygın olarak kullanılır.
 
