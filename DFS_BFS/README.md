@@ -59,6 +59,8 @@ DFS, bir düğümden başlayarak mümkün olduğunca derine iner, daha sonra ger
 - Topolojik sıralama
 
 ---
+![BFS-and-DFS-Algorithms](https://github.com/user-attachments/assets/5399c7af-93e6-46a5-ac12-dd270cb6337a)
+
 
 ## BFS ve DFS Karşılaştırması
 
