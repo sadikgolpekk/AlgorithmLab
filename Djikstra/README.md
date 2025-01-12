@@ -13,6 +13,9 @@ Dijkstra algoritması, **graf üzerindeki iki düğüm arasındaki en kısa yolu
 
 ---
 
+![DijkstraOptimality_crDaveWhyte-Social](https://github.com/user-attachments/assets/b5bcebe8-0212-4983-8d0f-ee5e5c624f70)
+
+
 ## ✨ Dijkstra Algoritmasının Özellikleri
 - **Açgözlü yaklaşım** kullanır.
 - Her düğüm yalnızca bir kez işlenir.
