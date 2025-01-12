@@ -1,5 +1,7 @@
 # Dijkstra Algoritması
 
+![Edsger_Wybe_Dijkstra](https://github.com/user-attachments/assets/d4e7705c-7e2a-4387-9a67-d679db4f8e36)
+
 ## 📚 Dijkstra Algoritması Nedir?
 
 Dijkstra algoritması, **graf üzerindeki iki düğüm arasındaki en kısa yolu bulmak** için kullanılan bir **açgözlü algoritmadır**. Bu algoritma, negatif ağırlıklı kenarların bulunmadığı yönlendirilmiş ya da yönlendirilmemiş grafiklerde çalışır.
