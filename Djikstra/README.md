@@ -1,6 +1,6 @@
 # Dijkstra Algoritması
 
-![Edsger_Wybe_Dijkstra](https://github.com/user-attachments/assets/d4e7705c-7e2a-4387-9a67-d679db4f8e36)
+![images](https://github.com/user-attachments/assets/31b0cbf1-f819-4014-a57f-cb0424862dae)
 
 ## 📚 Dijkstra Algoritması Nedir?
 
