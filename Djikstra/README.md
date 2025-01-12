@@ -49,38 +49,63 @@ Dijkstra algoritması, **graf üzerindeki iki düğüm arasındaki en kısa yolu
 ## 📖 Dijkstra Algoritması Örneği
 
 ### Giriş Grafı:
-Düğümler: A, B, C, D, E
+
+Düğümler: A, B, C, D, E, F
 
 Ağırlıklı Kenarlar:
-- A-B: 4
-- A-C: 2
-- B-C: 5
-- B-D: 10
-- C-E: 3
-- D-E: 4
+
+- A-B: 1
+- A-C: 4
+- B-C: 2
+- B-D: 6
+- C-D: 3
+- C-E: 2
+- D-E: 1
+- D-F: 5
+- E-F: 4
 
 ### Algoritma Adımları:
+
 1. Başlangıç düğümü: **A**
-   - Mesafeler: A=0, B=∞, C=∞, D=∞, E=∞
 
-2. **A'dan C'ye git (2)**:
-   - Güncellenen mesafeler: A=0, B=4, C=2, D=∞, E=5
+   - Mesafeler: A=0, B=∞, C=∞, D=∞, E=∞, F=∞
 
-3. **C'den E'ye git (3)**:
-   - Güncellenen mesafeler: A=0, B=4, C=2, D=∞, E=5
+2. **A'dan B'ye git (1)**:
 
-4. **B'den D'ye git (10)**:
-   - Güncellenen mesafeler: A=0, B=4, C=2, D=14, E=5
+   - Güncellenen mesafeler: A=0, B=1, C=∞, D=∞, E=∞, F=∞
 
-5. İşlem tamamlandı.
+3. **B'den C'ye git (2)**:
+
+   - Güncellenen mesafeler: A=0, B=1, C=3, D=∞, E=∞, F=∞
+
+4. **C'den E'ye git (2)**:
+
+   - Güncellenen mesafeler: A=0, B=1, C=3, D=∞, E=5, F=∞
+
+5. **C'den D'ye git (3)**:
+
+   - Güncellenen mesafeler: A=0, B=1, C=3, D=6, E=5, F=∞
+
+6. **E'den F'ye git (4)**:
+
+   - Güncellenen mesafeler: A=0, B=1, C=3, D=6, E=5, F=9
+
+7. **D'den F'ye git (5)** (Alternatif yol):
+
+   - A=0, B=1, C=3, D=6, E=5, F=9 (Değişim yok)
 
 ### Çıktı:
+
 Başlangıç düğümünden diğer düğümlere en kısa mesafeler:
+
 - A -> A: 0
-- A -> B: 4
-- A -> C: 2
-- A -> D: 14
+- A -> B: 1
+- A -> C: 3
+- A -> D: 6
 - A -> E: 5
+- A -> F: 9
+
+Alternatif yollar da değerlendirilmiştir.
 
 ---
 
